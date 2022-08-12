@@ -1,4 +1,7 @@
+Last Updated: 11/08/2022
+
 # Privacy Policy for Mobile Application
+
 This privacy policy governs your use of the software application Happy Mole for mobile devices that was developed by Mobile Toys & Tools. The application is a game that is another composition of classical mole game. You should just touch the moles randomly appearing on the screen. You should hit as many as possible. You will also find carrots which are very useful. But avoid the snakes. If you touch them they bite you.
 
 # What information does the Application obtain and how is it used?
