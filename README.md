@@ -1,8 +1,11 @@
+![This is an image](ic_launcher.png)
+
+
 Last Updated: 11/08/2022
 
 # Privacy Policy for Mobile Application
 
-This privacy policy governs your use of the software application Happy Mole for mobile devices that was developed by Mobile Toys & Tools. The application is a game that is another composition of classical mole game. You should just touch the moles randomly appearing on the screen. You should hit as many as possible. You will also find carrots which are very useful. But avoid the snakes. If you touch them they bite you.
+This privacy policy governs your use of the software application **Happy Mole** for mobile devices that was developed by Mobile Toys & Tools. The application is a game that is another composition of classical mole game. You should just touch the moles randomly appearing on the screen. You should hit as many as possible. You will also find carrots which are very useful. But avoid the snakes. If you touch them they bite you.
 
 # What information does the Application obtain and how is it used?
 ## User Provided Information
@@ -18,7 +21,7 @@ No. This application does not collect precise information about the location of 
 No. Even aggregated, anonymized data is not periodically transmitted to external services.
 
 # Privacy Policy Changes
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies. You can check the history of this policy by clicking here.
+This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
 
 # Contact us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at mobile.toys.tools@gmail.com.
