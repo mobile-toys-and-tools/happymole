@@ -1,7 +1,7 @@
 ![This is an image](ic_launcher.png)
 
 
-Last Updated: 11/08/2022
+Last Updated: 03/08/2022
 
 # Privacy Policy for Mobile Application
 
