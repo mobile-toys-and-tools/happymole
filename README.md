@@ -1,7 +1,3 @@
----
-title-heading: false
----
-
 ![This is an image](ic_launcher.png)
 
 
